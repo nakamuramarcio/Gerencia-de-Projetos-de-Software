@@ -1,1 +1,2 @@
 # Gerencia-de-Projetos-de-Software
+Bem-vindo(a) à nossa página! O objetivo deste espaço é servir como uma ferramenta didática para apoiar o aprendizado da disciplina de Gerência de Projeto de Software. Aqui, você encontrará conteúdos, conceitos e recursos que facilitarão a compreensão dos principais aspectos envolvidos na gestão de projetos de desenvolvimento de software, contribuindo para uma formação mais sólida e prática na área.
